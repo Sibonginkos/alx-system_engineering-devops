@@ -1,2 +1,2 @@
 #!/bin/bash
-sort file | uniq -d | tail -1
+sort iacta | uniq -d | tail -1
