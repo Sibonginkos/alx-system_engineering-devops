@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a *.git
+find '*.git' -printf "%f\n" -type f | cut -d"." -f -1 | sort -fV

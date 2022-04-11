@@ -1,2 +1,2 @@
 #!/bin/bash
-gedit /etc//httpd/conf/httpdd.conf
+gedit /etc//httpd/conf/httpd.conf
